@@ -23,6 +23,18 @@ The dashboard is responsive using Flexbox and Grid layouts, with basic clean sty
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/login.png" width="250"/><br/>
+      <strong>Login Screen</strong>
+    </td>
+  </tr>
+</table>
+
+
 ## How to Install and Run
 
 1. **Clone the Repository:**
