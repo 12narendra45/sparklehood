@@ -28,7 +28,7 @@ The dashboard is responsive using Flexbox and Grid layouts, with basic clean sty
 <table>
   <tr>
     <td align="center">
-      <img src="image/interface.png" width="750" height="250"/><br/>
+      <img src="image/interface.png" width="750" height="500"/><br/>
       <strong>Interface Screen/strong>
     </td>
   </tr>
